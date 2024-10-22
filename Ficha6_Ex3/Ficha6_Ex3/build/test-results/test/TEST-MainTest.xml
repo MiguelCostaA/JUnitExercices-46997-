@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-21T19:56:59" hostname="DESKTOP-E426C8P" time="0.021">
+  <properties/>
+  <testcase name="testArea()" classname="MainTest" time="0.016"/>
+  <testcase name="testIsTriangle()" classname="MainTest" time="0.001"/>
+  <testcase name="testPerimeter()" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
